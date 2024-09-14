@@ -2,6 +2,9 @@
 layout: default
 ---
 
+## Personal Projects:
+* Azure Honeynet SOC
+* Active Directory with PowerShell
 <!---
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
