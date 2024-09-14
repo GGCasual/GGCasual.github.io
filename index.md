@@ -2,9 +2,6 @@
 layout: default
 ---
 
-## Personal Projects:
-* Azure Honeynet SOC
-* Active Directory with PowerShell
 <!---
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
@@ -126,3 +123,7 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 --->
+
+## Personal Projects:
+* Azure Honeynet SOC
+* Active Directory with PowerShell
